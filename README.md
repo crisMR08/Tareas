@@ -1,5 +1,5 @@
 # Tareas
 Tareas del cuatrimestre,Progra2
 
-# Confirmado
-@ davian-007 :thumbsup:
+# Pendiente
+@ davian-007 :thumbsdown:
